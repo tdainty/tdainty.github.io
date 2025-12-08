@@ -23,7 +23,7 @@ author_profile: true
 ## Working Papers
 **Strategic Heterogeneity in Policy-Level Positioning: Evidence from Congressional Campaigns.** *with Rachel Porter (R&R at American Journal of Political Science).* [[Working Paper]](/files/case_porter_issues.pdf)
 
-**Bipartisan Campaign Messages are Credible Policymaking Signals.** *with Emily Cottle Ommundsen and Rachel Porter.*
+**Bipartisan Campaign Messages are Credible Policymaking Signals.** *with Emily Cottle Ommundsen and Rachel Porter.* [[Working Paper]](/files/bipartisan_credible.pdf)
 
 **Issue Publics and Issue Voting in Primary Elections.** *with Audrey Sachleben and Sarah A. Treul*
 
