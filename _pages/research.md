@@ -7,7 +7,7 @@ author_profile: true
 ## Peer-Reviewed Articles
 **Proximity to the Border and Border Fortification’s Impact on Immigration Attitudes.** *with Adam Lappe.* Forthcoming. *Political Research Quarterly* [[Working Paper]](/files/dainty_borderprox.pdf)
 
-**CampaignView, A Database of Policy Platforms and Biographical Narratives for Congressional Candidates.** *with Rachel Porter and Sarah A. Treul.* 2025. *American Politics Research* [[Paper]](/files/dainty_BLMopinion.pdf)
+**CampaignView, A Database of Policy Platforms and Biographical Narratives for Congressional Candidates.** *with Rachel Porter and Sarah A. Treul.* 2025. *American Politics Research* [[Paper]](https://doi.org/10.1177/1532673X231175625)
 
 ## Working Papers
 
