@@ -5,7 +5,7 @@ title: "Teaching"
 
 ### University of Iowa
 
-- Orientation Stata Camp (Graduate, Spring 2026) [Workshop Materials](/files/stata_camp.zip)
+- Orientation Stata Camp (Graduate, Spring 2026)
   
 - (Independent Instructor) POLI 3000: Analyzing Political Data (Undergraduate, Spring 2025) [Syllabus](/files/3000_syllabus.pdf)
 
