@@ -4,30 +4,17 @@ permalink: /research/
 author_profile: true
 ---
 
-## Book Projects
-**Scaling the Meaning of Text with Word Embeddings.** *with Rachel Porter* Under Contract with Cambridge University Press's Elements in *Quantitative and Computational Methods for the Social Sciences*
-
 ## Peer-Reviewed Articles
-**Measuring Strategic Positioning in Congressional Elections.** Forthcoming. *The Journal of Politics* [[Paper]](/files/case_measuringpositioning.pdf) [[Replication Materials]](https://doi.org/10.7910/DVN/2YQ2CF)[[WEB Scores (2018-2022)]](https://github.com/crcase/WEB-Scores)
+**Proximity to the Border and Border Fortification’s Impact on Immigration Attitudes.** *with Adam Lappe.* Forthcoming. *Political Research Quarterly* [[Working Paper]](/files/dainty_borderprox.pdf)
 
-**CampaignView, A Database of Policy Platforms and Biographical Narratives for Congressional Candidates.** *with Rachel Porter and Sarah A. Treul.* 2025. *Scientific Data* [[Paper]](https://www.nature.com/articles/s41597-025-05491-x) [[CampaignView.org]](https://campaignview.org)
-
-**Conceptualizing and Measuring Early Campaign Fundraising in U.S. House Elections.** *with Rachel Porter.* 2025. *Political Science Research and Methods* [[Paper]](https://doi.org/10.1017/psrm.2025.10014) [[Replication Materials]](https://doi.org/10.7910/DVN/FVLHCX)
-
-**Purchasing Privilege? How Status Cues Affect Police Suspicion in Routine Traffic Stops.** *with Frank R. Baumgartner and Will Spillman.* 2024. *Politics, Groups, and Identities* [[Paper]](https://doi.org/10.1080/21565503.2024.2378034)
-
-**The Selling of Experience in the 2022 Congressional Elections.** *with Sarah A. Treul.* 2024. *The Journal of Political Marketing* [[Paper]](https://doi.org/10.1080/15377857.2024.2371765)
-
-**Partisan Appeals to Bipartisanship.** *with Emily Cottle Ommundsen.*  2024. *Political Behavior* [[Paper]](https://doi.org/10.1007/s11109-022-09838-7) [[Replication Materials]](https://github.com/crcase/partisan-appeals-to-bipartisanship)
+**CampaignView, A Database of Policy Platforms and Biographical Narratives for Congressional Candidates.** *with Rachel Porter and Sarah A. Treul.* 2025. *American Politics Research* [[Paper]](/files/dainty_BLMopinion.pdf)
 
 ## Working Papers
-**Strategic Heterogeneity in Policy-Level Positioning: Evidence from Congressional Campaigns.** *with Rachel Porter (R&R at American Journal of Political Science).* [[Working Paper]](/files/case_porter_issues.pdf)
 
-**Bipartisan Campaign Messages are Credible Policymaking Signals.** *with Emily Cottle Ommundsen and Rachel Porter.* [[Working Paper]](/files/bipartisan_credible.pdf)
+**The Use of Data Visualization in Political Science.** *with Frederick J. Boehmke, Sami DeRagon, Hyein Ko, Taylor Tokos, Tianhui Wu, and Weidong Zhang.* 2025. *R&R at Political Science and Politics* [[Working Paper]](/files/dainty_BLMopinion.pdf)
 
-**Issue Publics and Issue Voting in Primary Elections.** *with Audrey Sachleben and Sarah A. Treul*
+**Foreign Aid Between Disaster and Rebellion: Subnational Evidence from the Philippines.** [[Working Paper]](/files/dainty_philippines.pdf)
 
-**Coloring within the Party Lines: Candidate Branding in Primary Elections.** [[Polmeth 2023 Poster]](/files/case_logos_poster.pdf)
-
+**Resource Riches, Rebel Rulers: The Impact of Resource Wealth on Insurgent Governance.** [[Working Paper]](/files/dainty_NRrebgov.pdf)
 
 
