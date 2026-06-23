@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 ## Peer-Reviewed Articles
-Proximity to the Border and Border Fortification’s Impact on Immigration Attitudes. *with Adam Lappe.* Forthcoming. *Political Research Quarterly* [[Paper]](/files/dainty_borderprox.pdf)
+Proximity to the Border and Border Fortification’s Impact on Immigration Attitudes. *with Adam Lappe.* 2026. *Political Research Quarterly* [[Paper]](https://journals.sagepub.com/doi/full/10.1177/10659129261459074)
 
 Did Black Lives Matter Protests Change Public Opinion? *with Frederick J. Boehmke, Samuel M. Avery, Marissa S. Good, and Hyein Ko.* 2023. *American Politics Research* [[Paper]](https://doi.org/10.1177/1532673X231175625)
 
